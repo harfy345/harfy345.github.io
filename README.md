@@ -20,8 +20,7 @@ This is a 3D portfolio website built with React, Vite, Three.js, and Tailwind CS
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/harfy345/portfolio.git
-   cd portfolio
+   git clone https://github.com/harfy345/harfy345.github.io.git
    ```
 
 2. Install dependencies:
@@ -60,7 +59,7 @@ npm run preview
 
 ## Deployment
 
-This project is configured to deploy to GitHub Pages at [https://harfy345.github.io/portfolio](https://harfy345.github.io/portfolio).
+This project is configured to deploy to GitHub Pages at [https://harfy345.github.io/](https://harfy345.github.io/).
 
 To deploy manually:
 
